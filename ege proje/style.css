@@ -1,0 +1,33 @@
+body {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: #59bef8;
+  margin: 0;
+  padding: 0;
+}
+
+#controls-container {
+  position: absolute;
+  top: 50px;
+  left: 25px;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.control {
+  margin-bottom: 5px;
+  margin-top: 5px;
+  color: black;
+}
+
+.text {
+  margin-top: 5px;
+  color: green;
+}
+
+.signature {
+  margin-top: 20px;
+  color: blue;
+}
